@@ -14,6 +14,8 @@
 </p>
 
 <p align="center">
+  <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=purple&label=hits&size=medium" alt="hits" /></a>
+  <br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" width=100%>
 </p>
 
