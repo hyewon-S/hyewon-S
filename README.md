@@ -1,4 +1,5 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hyewon%20GitHub&fontSize=40&fontAlign=50&fontAlignY=40)
+
 ![header](https://capsule-render.vercel.app/api?color=auto&height=120&section=header&text=Hyewon%20GitHub)
 
 
