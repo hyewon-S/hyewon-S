@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Hyewon%27s%20GitHub)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Hyewon%27s%20GitHub&fontSize=50)
 
 
 <!--
