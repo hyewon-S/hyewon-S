@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?color=auto&height=120&section=header&text=Hyewon's GitHub)
+![header](https://capsule-render.vercel.app/api?color=auto&height=120&section=header&text='Hyewon's GitHub')
 
 <!--
 **hyewon-S/hyewon-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
