@@ -1,4 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Hyewon%27s%20GitHub)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hyewon%27s%20GitHub)
+
+
+<p align="center">
+  <b>🖥️ 현재 공부중인 백엔드 주니어 개발자 입니다.<br></b>      
+  <b>Email: shw1358@gmail.com<br><br><br></b>
+</p>
+
+
+[![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyewon-S)](https://github.com/hyewon-S/github-readme-stats)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
 
 
 <!--
