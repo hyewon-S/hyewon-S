@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=190&section=header&text=Hyewon%27s%20GitHub&fontSize=40&fontColor=A3A0A0" width=100%>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=190&section=header&text=Hyewon%27s%20GitHub&fontSize=40&fontColor=A3A0A0" width="100%">
 </p>
 
 
@@ -37,18 +37,14 @@
 </p>
 
 <p align="center">
-  🎯GitHub Status🎯<br>
-  
+  🎯GitHub Status🎯<br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=hyewon-S" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyewon-S&show_icons=true&theme=default" />
-</p>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyewon-S&show_icons=true)
 
 <p align="center">
   🎯백준 Status🎯<br>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tla1313">
-  <img src="http://mazandi.herokuapp.com/api?handle={tla1313}&theme=warm"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=tla1313&theme=warm"/>
 </p>
 
 
@@ -58,21 +54,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" width=100%>
 </p>
 
-
-
-
-
-<!--
-**hyewon-S/hyewon-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
