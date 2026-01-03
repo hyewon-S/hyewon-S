@@ -43,6 +43,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hyewon-S&show_icons=true&theme=default" />
 </p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyewon-S&show_icons=true)
 
 <p align="center">
   🎯백준 Status🎯<br>
