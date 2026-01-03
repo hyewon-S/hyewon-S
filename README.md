@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=190&section=header&text=Hyewon%27s%20GitHub&fontSize=40&fontColor=A3A0A0" width=100%>
-</p>
+
 
 
 <hr>
@@ -38,7 +38,7 @@
 
 <p align="center">
   🎯GitHub Status🎯<br>
-  <img src="https://github-readme-stats.vercel.app/api?username=hyewon-S">
+  <img src="https://github.com/hyewon-S/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=hyewon-S">
   
 </p>
@@ -55,6 +55,8 @@
   <br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" width=100%>
 </p>
+
+</div>
 
 
 
