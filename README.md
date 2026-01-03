@@ -1,32 +1,26 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=190&section=header&text=Hyewon%27s%20GitHub&fontSize=40&fontColor=A3A0A0" width="100%">
 </p>
-
-
 <hr>
+
 <p align="center">
-  <br><br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B15D&background=93767600&width=435&lines=Welcome+To+My+GitHub!" alt="Typing SVG" /></a>
-  <br>
-  🖥️ 계속 공부하는 백엔드 주니어 개발자 입니다.
-  <br>     
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B15D&background=93767600&width=600&lines=Welcome+To+My+GitHub!+Thank+you+for+visiting." alt="Typing SVG" /></a>
+  <br>🖥️ 계속 공부하는 백엔드 주니어 개발자 입니다.<br>     
   Email: shw1358@gmail.com
-  <br><br><br>
-</p>
-<hr>
+  <br>
+</p><hr>
+
 <p align="center">
-  📖Studying📖
-  <br><br>
+  <br><br>📖Studying📖 <br><br>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /> <!--spring--> 
   <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> <!--java-->
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" /> <!--linux-->
   <img src="https://img.shields.io/badge/oracle-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white" /> <!--oracle-->
   <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black" /> <!--c-->
 </p>
-  <br><br><br>
 
 <p align="center">
-  🔧Tools🔧
+  <br>🔧Tools🔧
   <br><br>
   <img src="https://img.shields.io/badge/intellij%20idea-%23000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white" /> <!--인텔리제이-->
   <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /> <!--github-->
@@ -36,21 +30,24 @@
   <img src="https://img.shields.io/badge/visual%20studio-%235C2D91.svg?&style=for-the-badge&logo=visual%20studio&logoColor=white" /> <!--vs-->
 </p>
 
+<!--작동 안됨
 <p align="center">
   🎯GitHub Status🎯<br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=hyewon-S" />
 </p>
+-->
 
+<!--나중에 추가
 <p align="center">
-  🎯백준 Status🎯<br>
+  <br><br>🎯백준 Status🎯<br><br>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tla1313">
   <img src="http://mazandi.herokuapp.com/api?handle=tla1313&theme=warm"/>
 </p>
-
+-->
 
 <p align="center">
-  <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=purple&label=hits&size=medium" alt="hits" /></a>
-  <br><br>
+  <br><br><a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=purple&label=hits&size=medium" alt="hits" /></a>
+  <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" width=100%>
 </p>
 
