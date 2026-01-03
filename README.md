@@ -38,7 +38,7 @@
 
 <p align="center">
   🎯GitHub Status🎯<br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyewon-S">
+  <img src="https://github-readme-stats.vercel.app/api?username=hyewon-S">
   <img src="https://github-readme-stats.vercel.app/api?username=hyewon-S">
   
 </p>
