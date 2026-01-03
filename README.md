@@ -3,7 +3,7 @@
 </p>
 
 
-  
+<hr>
 <p align="center">
   <br><br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B15D&background=93767600&width=435&lines=Welcome+To+My+GitHub!" alt="Typing SVG" /></a>
@@ -36,12 +36,17 @@
   <img src="https://img.shields.io/badge/visual%20studio-%235C2D91.svg?&style=for-the-badge&logo=visual%20studio&logoColor=white" /> <!--vs-->
 </p>
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tla1313">
+
 
 <p align="center">
   🎯GitHub Status🎯<br>
-  
+  <img src="http://mazandi.herokuapp.com/api?handle={tla1313}&theme=warm"/>
 </p>
+
+<p>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tla1313">
+</p>
+
 <p align="center">
   <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=purple&label=hits&size=medium" alt="hits" /></a>
   <br><br>
