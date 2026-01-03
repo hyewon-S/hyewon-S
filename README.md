@@ -7,22 +7,22 @@
 <p align="center">
   <br><br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B15D&background=93767600&width=435&lines=Welcome+To+My+GitHub!" alt="Typing SVG" /></a>
-  <br><hr>
-  🖥️ 현재 공부중인 백엔드 주니어 개발자 입니다.
+  <br>
+  🖥️ 계속 공부하는 백엔드 주니어 개발자 입니다.
   <br>     
-  Email: shw1358@gmail.com<hr>
+  Email: shw1358@gmail.com
   <br><br><br>
 </p>
-
+<hr>
 <p align="center">
-  ###📖Studying📖
+  ### 📖Studying📖
   <br><br>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /> <!--spring-->
 </p>
   <br><br><br>
 
 <p align="center">
-  ###🔧Tools🔧
+  ### Tools🔧
   <br><br>
   
 </p>
