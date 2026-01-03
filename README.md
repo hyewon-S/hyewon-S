@@ -2,10 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=190&section=header&text=Hyewon%27s%20GitHub&fontSize=40&fontColor=A3A0A0" width=100%>
 </p>
 
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B15D&background=93767600&width=435&lines=Welcome+To+My+GitHub!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B15D&background=93767600&width=435&lines=Welcome+To+My+GitHub!" alt="Typing SVG" /></a>
   <br>
+  
+<p align="center">
+  
   🖥️ 현재 공부중인 백엔드 주니어 개발자 입니다.<br>     
   Email: shw1358@gmail.com<br><br><br>
 </p>
