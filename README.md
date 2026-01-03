@@ -36,16 +36,19 @@
   <img src="https://img.shields.io/badge/visual%20studio-%235C2D91.svg?&style=for-the-badge&logo=visual%20studio&logoColor=white" /> <!--vs-->
 </p>
 
-
-
 <p align="center">
   🎯GitHub Status🎯<br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyewon-S">
+  <img src="https://github-readme-stats.vercel.app/api?username=hyewon-S">
+  
+</p>
+
+<p align="center">
+  🎯백준 Status🎯<br>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tla1313">
   <img src="http://mazandi.herokuapp.com/api?handle={tla1313}&theme=warm"/>
 </p>
 
-<p>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tla1313">
-</p>
 
 <p align="center">
   <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=purple&label=hits&size=medium" alt="hits" /></a>
