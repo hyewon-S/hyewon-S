@@ -1,14 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=190&section=header&text=Hyewon%27s%20GitHub&fontSize=40&fontColor=A3A0A0" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=190&section=header&text=Hyewon%27s%20GitHub&fontSize=40&fontColor=A3A0A0" width="100%">
 </p>
-<hr>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B15D&background=93767600&width=600&lines=Welcome+To+My+GitHub!+Thank+you+for+visiting." alt="Typing SVG" /></a>
-  <br>🖥️ 계속 공부하는 백엔드 주니어 개발자 입니다.<br>     
+  🖥️ 계속 공부하는 백엔드 주니어 개발자 입니다.<br>     
   Email: shw1358@gmail.com
   <br>
-</p><hr>
+</p>
 
 <p align="center">
   <br><br>📖Studying📖 <br><br>
@@ -30,14 +28,6 @@
   <img src="https://img.shields.io/badge/visual%20studio-%235C2D91.svg?&style=for-the-badge&logo=visual%20studio&logoColor=white" /> <!--vs-->
 </p>
 
-<!--작동 안됨
-<p align="center">
-  🎯GitHub Status🎯<br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=hyewon-S" />
-</p>
--->
-
-<hr>
 <p align="center">
   <br><br>🎯백준 Status🎯<br><br>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tla1313">
