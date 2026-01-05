@@ -37,13 +37,13 @@
 </p>
 -->
 
-<!--나중에 추가
+<hr>
 <p align="center">
   <br><br>🎯백준 Status🎯<br><br>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tla1313">
   <img src="http://mazandi.herokuapp.com/api?handle=tla1313&theme=warm"/>
 </p>
--->
+
 
 <p align="center">
   <br><br><a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=purple&label=hits&size=medium" alt="hits" /></a>
