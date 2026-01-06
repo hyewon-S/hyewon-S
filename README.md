@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=190&section=header&text=Hyewon%27s%20GitHub&fontSize=40&fontColor=A3A0A0" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f7e2e7&height=190&section=header&text=Hyewon%27s%20GitHub&fontSize=40&fontColor=f4b7b3" width="100%">
 </p>
 
 <div>
-  <h1>Hi! there </h1>
+  <h1>Hi! there🖐️</h1>
   🖥️ 계속 공부하는 백엔드 주니어 개발자 입니다.<br>     
   Email: shw1358@gmail.com
   <br>
@@ -17,9 +17,8 @@
   <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black" /> <!--c-->
 
 
-  <br>
-  <h1>🔧Tools🔧</h1>
   <br><br>
+  <h1>🔧Tools🔧</h1>
   <img src="https://img.shields.io/badge/intellij%20idea-%23000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white" /> <!--인텔리제이-->
   <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /> <!--github-->
   <img src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=for-the-badge&logo=eclipse%20ide&logoColor=white" /> <!--eclipse-->
@@ -28,13 +27,12 @@
   <img src="https://img.shields.io/badge/visual%20studio-%235C2D91.svg?&style=for-the-badge&logo=visual%20studio&logoColor=white" /> <!--vs-->
 
   <br><br>
-  <h1>🎯백준 Status🎯</h1><br><br>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tla1313">
+  <h1>🎯백준 Status🎯</h1>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tla1313"><br>
   <img src="http://mazandi.herokuapp.com/api?handle=tla1313&theme=warm"/>
 
 
-  <br><br><a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=purple&label=hits&size=medium" alt="hits" /></a>
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" width=100%>
+  <br><br><a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=yellow&label=hits&size=medium" alt="hits" /></a>
+  <br><img src="https://capsule-render.vercel.app/api?type=waving&color=f7e2e7&height=150&section=footer" width=100%>
 </div>
 
