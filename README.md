@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=for-the-badge&logo=eclipse%20ide&logoColor=white" /> <!--eclipse-->
   <img src="https://img.shields.io/badge/android%20auto-%233DDC84.svg?&style=for-the-badge&logo=android%20auto&logoColor=black" /> <!--android studio-->
   <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <!--vsCode-->
-  <img src="https://img.shields.io/badge/visual%20studio-%235C2D91.svg?&style=for-the-badge&logo=visual%20studio&logoColor=white" /> <!--vs-->
+  <img src="https://img.shields.io/badge/visual%20studio-%235C2D91.svg?&style=for-the-badge&logo=visual%20studio&logoColor=white" />
 
   <br><br>
   <h1>🎯백준 Status🎯</h1>
