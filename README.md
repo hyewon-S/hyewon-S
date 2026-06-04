@@ -4,7 +4,7 @@
 
 <div align="center">
   <h2>Hi!🖐️</h2>
-  🖥️ 계속 공부하는 주니어 백엔드 개발자 입니다.<br>     
+  🖥️ 계속 공부하는 주니어 개발자 입니다.<br>     
   📧 Email: shw12421@naver.com
   <br>
 
